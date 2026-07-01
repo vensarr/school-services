@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/app/" />
+  <Folder Name="/app/exams/">
+    <Project Path="App/School.Exams.Api/School.Exams.Api.csproj" />
+    <Project Path="App/School.Exams.Application/School.Exams.Application.csproj" />
+    <Project Path="App/School.Exams.Domain/School.Exams.Domain.csproj" />
+    <Project Path="App/School.Exams.Infrastructure/School.Exams.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Tests/School.Exams.Application.Tests/School.Exams.Application.Tests.csproj" />
+  </Folder>
+</Solution>
